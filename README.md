@@ -1,9 +1,9 @@
 
-# BULang
+# BU Lang
 
 ## Introduction
 
-BULang is a simple, custom programming language inspired by Div Games Studio, developed to make game creation more accessible. This repository contains the source code for various components of the language, including the lexer, parser, interpreter, and more. This project aims to serve as an educational tool and a practical framework for game development.
+BU Lang is a simple, custom programming language inspired by Div Games Studio, developed to make game creation more accessible. This repository contains the source code for various components of the language, including the lexer, parser, interpreter, and more. This project aims to serve as an educational tool and a practical framework for game development.
 
 ## Components
 
@@ -21,7 +21,7 @@ BULang is a simple, custom programming language inspired by Div Games Studio, de
 
 #### Program Structure
 
-Here is a simple structure of a BULang program:
+Structure of a BU Lang program:
 
 ```c
 program name;
@@ -32,7 +32,7 @@ program name;
 
 #### Conditional Example
 
-Here is an example of using \`if\` in BULang:
+Example of using `if` in BU Lang:
 
 ```c
 int score = 85
