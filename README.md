@@ -23,18 +23,18 @@ BULang is a simple, custom programming language inspired by Div Games Studio, de
 
 Here is a simple structure of a BULang program:
 
-\`\`\`bu
+```c
 program name;
 {
     // Your code here
 }
-\`\`\`
+```
 
 #### Conditional Example
 
 Here is an example of using \`if\` in BULang:
 
-\`\`\`bu
+```c
 int score = 85
 if (score >= 90) 
 {
@@ -46,13 +46,13 @@ if (score >= 90)
 {
     print("Grade: C")
 }
-\`\`\`
+```
 
 #### Switch Example
 
 Here is an example of a switch statement in BULang:
 
-\`\`\`bu
+```c
 switch(value)
 {
     case 0:
@@ -64,7 +64,7 @@ switch(value)
         // Default case code
     }
 }
-\`\`\`
+```
 
 #### Loops Examples
 
@@ -72,38 +72,38 @@ Here are examples of different loops in BULang:
 
 **For Loop:**
 
-\`\`\`bu
+```c
 for (int i=0; i<10; i=i+1)
 {
     // Loop code
 }
-\`\`\`
+```
 
 **While Loop:**
 
-\`\`\`bu
+```c
 while(i < 0)
 {
     break;
     continue;
 }
-\`\`\`
+```
 
 **Do-While Loop:**
 
-\`\`\`bu
+```c
 do
 {
     break;
     continue;
 } while(i < 10)
-\`\`\`
+```
 
 #### Process Example
 
 Here is an example of defining and using processes in BULang:
 
-\`\`\`bu
+```c
 program name;
 {
     start nave(100,100);
@@ -146,7 +146,7 @@ process bala(int _x, int y)
     }
     // byebye bullet, kill the process
 }
-\`\`\`
+```
 
 ## Types 
 
